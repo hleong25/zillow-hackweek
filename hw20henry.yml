@@ -1,3 +1,5 @@
 henry:
   location: "hleong25/zillow-hackweek/hw20henry.xml rev 2"
-  
+
+gitProperty1: "from hleong25/zillow-hackweek - git property 1"
+gitProperty2: "from hleong25/zillow-hackweek - git property 2"
